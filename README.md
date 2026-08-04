@@ -4,16 +4,6 @@ A single-cycle MIPS processor implemented in VHDL, built in two phases for the C
 
 **Phase 1** implements the Register File and ALU. **Phase 2** completes the processor with a Controller, Program Counter, Sign Extender, and Shifter — adding support for R-format, I-format, and J-format MIPS instructions.
 
-## Team — Group 19
-
-| Name | ID |
-|------|----|
-| Youssef Moustafa Elsayed | 22P0047 |
-| Nour Eldeen Ahmed Ali Ahmed Rehab | 22P0040 |
-| Ibrahim Shaker Hammad Shaker | 22P0056 |
-| Ahmed Hazem Abdul Rahman Khalil Ibrahim | 22P0226 |
-| Mohamed Yehia Zakaria Abdelhamid | 22P0064 |
-
 **Contributions:**
 - **Phase 1** — Register File: Youssef & Ibrahim · ALU: Mohamed & Nour · Datapath: Ahmed & Youssef · Report: all
 - **Phase 2** — Datapath: Youssef & Ibrahim · Controller: Mohamed & Nour · MIPS/Main: Ahmed & Youssef · Report: all
