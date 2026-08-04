@@ -75,7 +75,7 @@ Update this path to point to wherever you place `memfile.dat` on your machine (o
 
 ## Documentation
 
-The full project report — covering VHDL background, design rationale, RTL schematics for every block, controller function tables, and simulation waveforms for the Register File, ALU, and full processor — is available separately as the project PDF (`docs/COA Major Task.pdff` / "Building a Processor" report).
+The full project report — covering VHDL background, design rationale, RTL schematics for every block, controller function tables, and simulation waveforms for the Register File, ALU, and full processor — is available separately as the project PDF [`docs/COA Major Task.pdff`](docs/COA Major Task.pdff).
 
 ## References
 
